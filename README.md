@@ -1,6 +1,4 @@
 # project-4
-Project 4 Group 1 Proposal
-
 Group Members: Benafsha Alishah, Jonathan Bateson, Ian Denker, Maddie Haughton
 
 Data Source: https://www.kaggle.com/datasets/shkarupylomaxim/chess-games-dataset-lichess-2017-may/data
