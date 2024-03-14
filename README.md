@@ -23,6 +23,7 @@ We proceeded to create multiple neural network models which did not reach valida
 
 Our instructor, Mark Eidsaune, and TA, Jacob Johnson, suggested that we use XGBoost to optimize our predictions. 
 We created multiple XGBoost models and found they produced the best results of any of our models. 
+
 ![project2](https://github.com/ID216135/project-4/assets/144740749/c73d9d5b-2312-43e1-803d-748752737f13)
 ![project3](https://github.com/ID216135/project-4/assets/144740749/6bff63f1-a968-4cf6-88a7-9eb8e8fd4d31)
 
